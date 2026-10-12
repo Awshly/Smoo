@@ -1,2 +1,2 @@
 # Smoo
-a nodeJS discord bot
+a nodeJS mini-game discord bot
